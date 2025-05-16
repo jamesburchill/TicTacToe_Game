@@ -1,3 +1,7 @@
+**_Aside from this single comment, this entire repo - the code, the folders, the documentation, the logic ... all of it has been written by various AI 'agents', chatbots and other sundry AI tools, prompted into existence by 'yours truly' -- James C. Burchill_**
+
+---
+
 # Tic Tac Toe Game
 
 A simple yet feature-rich implementation of the classic Tic Tac Toe game with a graphical user interface built using Python and Tkinter.
